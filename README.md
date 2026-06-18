@@ -6,7 +6,7 @@ Coming up with fingerings is one of the most tedious parts of learning a new cel
 
 ## Status
 
-In active development. See the [Roadmap](ROADMAP.md) for what is built and what is planned.
+In active development. See the Roadmap for what is built and what is planned.
 
 ## Why this approach
 
